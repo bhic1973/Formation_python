@@ -5,6 +5,7 @@ from math import pi
 import numpy as np
 
 print(sys.version)
+print(sys.executable)
 
 print(os.listdir())
 
